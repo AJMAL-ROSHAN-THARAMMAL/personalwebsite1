@@ -9813,6 +9813,7 @@ h3.global-white {
 
 .theme-submit-button:hover {
   transition: 0.3s ease-out;
+  /* background: #b93d04; */
   background: #b93d04;
   color: #fff; }
 
